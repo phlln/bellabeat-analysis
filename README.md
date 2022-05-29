@@ -1,11 +1,11 @@
 # bellabeat-analysis
 This notebook documents consumer insight analysis for **Bellabeat**, a wellness tech company, and as part of an individual capstone project to the ***Google Data Analytics Professional Certificate Course.***
 
-Validation, processing, and analyzing the data was done with SQL using the BigQuery API and documented in a Jupyter Notebook. **The full, detailed analysis is available on GitHub here.** 
+Validation, processing, and analyzing the data was done with SQL using the BigQuery API and documented in a Jupyter Notebook.
 
-Additionally, Tableau was used to create data visualizations for the notebook and a [**high-level report**](https://public.tableau.com/app/profile/phil.lin/viz/BellabeatAnalysis_16486095004470/STORY) summarizing the key insights and making actionable marketing recommendations to the executive team.
+Additionally, Tableau was used to create data visualizations for the notebook and a [**high-level report**](https://public.tableau.com/app/profile/phil.lin/viz/BellabeatAnalysis_16486095004470/STORY) summarizing the key insights and marketing recommendations to the executive team.
 
-***BUSINESS TASK:** The executive team would like to understand how non-Bellabeat consumers use smart devices and then leverage these insights to find opportunities for growth. In addition, they would like recommendations for a marketing strategy based on this analysis. A public domain dataset of Fitbit users has been provided.*
+***BUSINESS TASK:** The executive team would like to understand how non-Bellabeat consumers use smart devices and then leverage these insights to find opportunities for growth. In addition, they would like recommendations for a marketing strategy based on this analysis. A public-domain dataset of Fitbit users has been provided.*
 
 ## REPORT
 

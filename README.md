@@ -1,5 +1,5 @@
 # bellabeat-analysis
-This notebook documents consumer insight analysis for **Bellabeat**, a wellness tech company, and as part of an individual capstone project to the ***Google Data Analytics Professional Certificate Course.***
+[This notebook](https://nbviewer.org/github/phlln/bellabeat-analysis/blob/main/notebooks/bellabeat_consumer_insight_analysis.ipynb) documents consumer insight analysis for **Bellabeat**, a wellness tech company, and as part of an individual capstone project to the ***Google Data Analytics Professional Certificate Course.***
 
 Validation, processing, and analyzing the data was done with SQL using the BigQuery API and documented in a Jupyter Notebook.
 

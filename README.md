@@ -1,23 +1,21 @@
-# bellabeat-analysis
-[This notebook](https://nbviewer.org/github/phlln/bellabeat-analysis/blob/main/notebooks/bellabeat_consumer_insight_analysis.ipynb) documents consumer insight analysis for **Bellabeat**, a wellness tech company, and as part of an individual capstone project to the ***Google Data Analytics Professional Certificate Course.***
+# Introduction
+For many companies, looking for new growth opportunities can be a challenge after having established their initial customer base. One approach to uncovering new possibilities is to mine customer data of comparable companies in the same space.
 
-Validation, processing, and analyzing the data was done with SQL using the BigQuery API and documented in a Jupyter Notebook.
+**[Bellabeat](https://bellabeat.com/),** a fast-growing wellness tech company known for designing health-focused wearables for women, is now looking to expand their existing user base.
 
-Additionally, Tableau was used to create data visualizations for the notebook and a [**high-level report**](https://public.tableau.com/app/profile/phil.lin/viz/BellabeatAnalysis_16486095004470/STORY) summarizing the key insights and marketing recommendations to the executive team.
+In this notebook, I analyze a dataset of Fitbit users, surface insights on *user engagement* and *user habits*, and then develop a *user profile* based on these findings. Using a data-driven approach, I then recommend concrete steps as part of a *marketing strategy* to help Bellabeat grow its customer base.
 
-***BUSINESS TASK:** The executive team would like to understand how non-Bellabeat consumers use smart devices and then leverage these insights to find opportunities for growth. In addition, they would like recommendations for a marketing strategy based on this analysis. A public-domain dataset of Fitbit users has been provided.*
+I'll use **SQL** to validate, process, and analyze the data. And, for ease of documentation, I'll use the **Google BigQuery API** to run queries and access data from within this **Jupyter Notebook**. In addition, I'll use **Tableau** to create the data visualizations shown in this notebook, and for a separate, stand-alone visualization-driven presentation. An executive summary can be found by jumping to the end of this notebook.
 
-## REPORT
 
-***PART 1** | Consumer Insight Analysis*
+## ANALYSIS 📊
 
-This section examines users' level of engagement with the Fitbit, analyzes their usage habits, and then constructs a user profile based on these findings.
+- **[Full Analysis with Executive Summary](https://nbviewer.org/github/phlln/bellabeat-analysis/blob/main/notebooks/bellabeat_consumer_insight_analysis.ipynb?flush_cache=True) (Jupyter Notebook & BigQuery)**
+- [**Presentation**](https://public.tableau.com/app/profile/phil.lin/viz/BellabeatAnalysis_16486095004470/STORY) **(Tableau)**
 
-***PART 2** | Marketing Recommendations*
 
-This section outlines actionable recommendations for the marketing team based on key insights  from the data in Part 1.
 
-## DATA
+## DATA 🗃
 
 The dataset is a collection of personal tracking data submitted by Fitbit users who responded to a distributed survey via Amazon Mechanical Turk. 
 

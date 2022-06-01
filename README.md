@@ -1,3 +1,4 @@
+![cover_page](./images/bellabeat_cover_yoga.jpg)
 # Introduction
 For many companies, looking for new growth opportunities can be a challenge after having established their initial customer base. One approach to uncovering new possibilities is to mine customer data of comparable companies in the same space.
 
@@ -12,6 +13,9 @@ I'll use **SQL** to validate, process, and analyze the data. And, for ease of do
 
 - **[Full Analysis with Executive Summary](https://nbviewer.org/github/phlln/bellabeat-analysis/blob/main/notebooks/bellabeat_consumer_insight_analysis.ipynb?flush_cache=True) (Jupyter Notebook & BigQuery)**
 - [**Presentation**](https://public.tableau.com/app/profile/phil.lin/viz/BellabeatAnalysis_16486095004470/STORY) **(Tableau)**
+
+
+![presentation_preview](./images/bellabeat_presentation_preview_hourly.jpg)
 
 
 

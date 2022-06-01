@@ -4,9 +4,9 @@ For many companies, looking for new growth opportunities can be a challenge afte
 
 **[Bellabeat](https://bellabeat.com/),** a fast-growing wellness tech company known for designing health-focused wearables for women, is now looking to expand their existing user base.
 
-In this notebook, I analyze a dataset of Fitbit users, surface insights on *user engagement* and *user habits*, and then develop a *user profile* based on these findings. Using a data-driven approach, I then recommend concrete steps as part of a *marketing strategy* to help Bellabeat grow its customer base.
+I analyze a dataset of Fitbit users, surface insights on *user engagement* and *user habits*, and then develop a *user profile* based on these findings. Using a data-driven approach, I then recommend concrete steps as part of a *marketing strategy* to help Bellabeat grow its customer base. This repo contains a collection of files supporting this analysis.
 
-I'll use **SQL** to validate, process, and analyze the data. And, for ease of documentation, I'll use the **Google BigQuery API** to run queries and access data from within this **Jupyter Notebook**. In addition, I'll use **Tableau** to create the data visualizations shown in this notebook, and for a separate, stand-alone visualization-driven presentation. An executive summary can be found by jumping to the end of this notebook.
+I'll use **SQL** to validate, process, and analyze the data. And, for ease of documentation, I'll use the **Google BigQuery API** to run queries and access data from within this **Jupyter Notebook**. In addition, I'll use **Tableau** to create the data visualizations shown in this notebook, and for a separate, stand-alone visualization-driven presentation.
 
 
 ## ANALYSIS 📊

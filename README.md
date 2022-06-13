@@ -1,6 +1,6 @@
 ![cover_page](./images/bellabeat_cover_yoga.jpg)
 ## Introduction
-For many companies, looking for new growth opportunities can be a challenge after having established their initial customer base. One approach to uncovering new possibilities is to mine customer data of comparable companies in the same space.
+For many companies that already have an established user base, finding growth opportunities can sometimes prove challenging. One tactic to unlock new growth possibilities is through mining customer data of comparable companies already competing in the space.
 
 **[Bellabeat](https://bellabeat.com/),** a fast-growing wellness tech company known for designing health-focused wearables for women, is now looking to expand their existing user base.
 
